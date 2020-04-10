@@ -8,7 +8,8 @@ This repo is dedicated for learning React JS
 - Create a Hello World app in React
     - `npx create-react-app hello-world-app` - took more than 5 minutes. Wow! The opposite for python. Took 5 minutes to write a hello world. :)
     - Creating an app under `learn-react`
-
+## Day 2
+- Understanding components and jsx
 
 ## Installation
 - `brew install node`
