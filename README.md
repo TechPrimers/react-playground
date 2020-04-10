@@ -10,7 +10,8 @@ This repo is dedicated for learning React JS
     - Creating an app under `learn-react`
 ## Day 2
 - Understanding components and jsx
-
+    - Created new component and imported and used it as a JSX 
+    
 ## Installation
 - `brew install node`
 - `npm i create-react-app` - I did not prefer the Global installation. [NPM Site](npmjs.com/package/create-react-app)
